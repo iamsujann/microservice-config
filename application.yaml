@@ -1,10 +1,2 @@
-spring:
-  application:
-    name: config-default
-eureka:
-  client:
-    service-url:
-      defaultService: http://localhost:8761/eureka/
-    register-with-eureka: true
-    fetch-registry: true
+
 
